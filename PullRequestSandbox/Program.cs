@@ -10,7 +10,8 @@ namespace PullRequestSandbox
     {
         static void Main(string[] args)
         {
-            // Made a comment
+            // Made a comment.
+            // And another.
         }
     }
 }
