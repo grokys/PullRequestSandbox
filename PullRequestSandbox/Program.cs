@@ -11,6 +11,7 @@ namespace PullRequestSandbox
         static void Main(string[] args)
         {
             // Can we find the remote branch?
+            // Yes we can.
         }
     }
 }
