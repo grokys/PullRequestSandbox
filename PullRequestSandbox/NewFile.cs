@@ -1,1 +1,1 @@
-class NewFile { }
+class NewFile { /* Edit */ }
