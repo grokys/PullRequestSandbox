@@ -10,7 +10,7 @@ namespace PullRequestSandbox
     {
         static void Main(string[] args)
         {
-            // Issue 630.
+            // Issue 630. Change.
         }
     }
 }
