@@ -14,6 +14,7 @@ namespace PullRequestSandbox
             // And another.
             // 3rd comment
             // 4th comment
+            // 5th comment
         }
     }
 }
