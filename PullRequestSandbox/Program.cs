@@ -8,6 +8,7 @@ namespace PullRequestSandbox
 {
     class Program
     {
+        // Comment that requires a merge.
         static void Main(string[] args)
         {
             // Made a comment.
