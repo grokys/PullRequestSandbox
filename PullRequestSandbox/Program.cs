@@ -13,6 +13,7 @@ namespace PullRequestSandbox
             // Made a comment.
             // And another.
             // 3rd comment
+            // 4th comment
         }
     }
 }
