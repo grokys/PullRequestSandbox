@@ -10,7 +10,6 @@ namespace PullRequestSandbox
     {
         static void Main(string[] args)
         {
-			// Testrun
         }
     }
 }
