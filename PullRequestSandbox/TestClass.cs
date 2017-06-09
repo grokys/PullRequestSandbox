@@ -18,5 +18,10 @@ namespace InlineComments
         {
             // Method1 method contents.
         }
+
+        public void AnotherMethod()
+        {
+            // Hard breakfast
+        }
     }
 }
