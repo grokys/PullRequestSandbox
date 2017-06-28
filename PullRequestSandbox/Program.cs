@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // first line
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace PullRequestSandbox
     {
         static void Main(string[] args)
         {
-            /// yepyep
+            // this line will have lots of comments
         }
     }
 }
