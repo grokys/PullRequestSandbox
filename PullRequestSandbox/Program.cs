@@ -9,7 +9,7 @@ namespace PullRequestSandbox
     class Program // boom.
     {
         static void Main(string[] args)
-        {
+        { // boom!
             // am i still here?
         }
     }
