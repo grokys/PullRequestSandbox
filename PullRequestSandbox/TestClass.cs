@@ -22,6 +22,7 @@ namespace InlineComments
         public void AnotherMethod()
         {
             // Hard breakfast
+            // Hard life
         }
     }
 }
