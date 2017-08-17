@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // first line
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace PullRequestSandbox
 {
-    class Program
+    class Program // boom.
     {
         static void Main(string[] args)
-        {
-            /// yepyep
+        { // boom!
+            // am i still here?
         }
     }
 }
