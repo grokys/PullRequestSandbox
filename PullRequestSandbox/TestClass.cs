@@ -16,7 +16,7 @@ namespace InlineComments
 
         public void Method1()
         {
-            // Method1 method contents.
+            // Method1 method contents..
         }
 
         public void AnotherMethod()
