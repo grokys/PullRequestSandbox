@@ -16,7 +16,7 @@ namespace PullRequestSandbox
     {
         static void Main(string[] args)
         {
-            File.WriteAllText(@"..\..\extra_carriage_return.txt", "foo\r\rbar");
+            File.WriteAllText(@"..\..\extra_carriage_return.txt", "foo\r\r\nbar\n\nfo\ro\r\nbar\n");
         }
     }
 }
