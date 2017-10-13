@@ -16,7 +16,7 @@ namespace PullRequestSandbox
     {
         static void Main(string[] args)
         {
-            File.WriteAllText(@"..\..\extra_carriage_return.txt", "foo\r\r\nbar\n\nfo\ro\r\nbar\n");
+            File.WriteAllText(@"..\..\text_with_zero.txt", "string with\u0000\nzero");
         }
     }
 }
