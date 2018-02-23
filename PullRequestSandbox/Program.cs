@@ -6,11 +6,5 @@ using System.Threading.Tasks;
 
 namespace PullRequestSandbox
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            /// yepyep
-        }
-    }
+    //
 }
